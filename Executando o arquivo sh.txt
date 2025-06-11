@@ -1,0 +1,6 @@
+Para executar a calculadora siga este passo:
+
+Em seu terminal digite o comando "./Executar-calculadora.sh" e assim irá executar nossa calculadora.
+
+
+
