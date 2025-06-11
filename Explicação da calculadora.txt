@@ -1,0 +1,1 @@
+Este script calcula as equações de primeiro grau, sendo apenas equações possíveis e determinadas, ou seja, apenas quando o valor de a é diferente de 0.
